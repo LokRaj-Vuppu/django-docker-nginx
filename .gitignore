@@ -1,0 +1,19 @@
+# /Docker-Django-Gunicorn-Nginx-Setup/django/db.sqlite3
+# /Docker-Django-Gunicorn-Nginx-Setup/.env
+# /Docker-Django-Gunicorn-Nginx-Setup/venv
+
+# /Nginx-Split-Test/venv
+# /Nginx-Split-Test/.env
+
+# # SQLite databases
+
+**/.env
+**/venv
+**/db.sqlite3
+# db.sqlite3
+**/staticfiles
+
+__pycache__/
+migrations/
+
+# ***/db.sqlite3
