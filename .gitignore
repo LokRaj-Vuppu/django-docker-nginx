@@ -13,7 +13,7 @@
 # db.sqlite3
 **/staticfiles
 
-__pycache__/
-migrations/
+**/__pycache__/
+**/migrations/
 
 # ***/db.sqlite3
